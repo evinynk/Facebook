@@ -1,0 +1,106 @@
+﻿@using Common.Dtos;
+@model Common.Dtos.UserDto
+@using Microsoft.AspNetCore.Http;
+
+<div id="cover">
+    @if (Model != null)
+
+    {
+        <img alt="Cover Photo" src="~/img/panorama.jpg" id="cover-photo" />
+        <div class="row" id="header-columns">
+            <div class="col-md-3" id="profile-pic-col" style="z-index: 10;">
+                <img class="img-thumbnail" alt="Profile Picture" src="~/img/@Model.ProfilePhoto" />
+                <h1>@Model.Name</h1>
+
+                @if (Context.Session.GetString("friendMail") != User.Identity.Name)
+                {
+                    if (Model.isFollow == false)
+                    {
+                        <button type="button" class="btn btn-default blue-font" onclick="RequestFriend('@Model.Email')">Add Friend</button>
+                    }
+                    else
+                    {
+                        
+                        <button type="button" class="btn btn-default blue-font" onclick="DeleteFriend('@Model.Email')">Delete Friend</button>
+
+                    }
+
+                }
+
+            </div>
+            <div class="col-md-4" id="name-col">
+
+            </div>
+            <div class="col-md-5" id="cover-buttons-col">
+
+                @*<div id="cover-buttons-group">
+                        <button type="button" class="btn btn-default btn-sm">Update Info</button>
+                        <div class="btn-group" role="group">
+                            <button type="button" class="btn btn-default btn-sm">View Activity Log</button>
+                            <button type="button" class="btn btn-default btn-sm">...</button>
+                        </div>
+                    </div>*@
+            </div>
+        </div>
+    }
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+@*<script src="~/js/Profile.js"></script>*@
+<script>
+    function RequestFriend(email) {
+      
+
+        $.ajax({
+            type: "GET",
+            url: "/Profile/RequestFriend",
+            data: { Email: email },
+            success: function (response) {
+                if (response) {
+                    location.href = "/Profile/Profile/";
+                }
+
+            },
+            error: function () {
+                debugger;
+                console.log("Hata Oluştu");
+            }
+        })
+    }
+
+    function DeleteFriend(email) {
+
+        $.ajax({
+            type: "GET",
+            url: "/Profile/DeleteFriend",
+            data: { Email: email },
+            success: function (response) {
+                if (response) {
+                    location.href = "/Profile/Profile/";
+                }
+
+            },
+            error: function () {
+                debugger;
+                console.log("Hata Oluştu");
+            }
+        })
+    }
+
+    //function DeleteFriend(email) {
+    //    $.ajax({
+    //        type: "POST",
+    //        url: "/Profile/DeleteFriend",
+    //        data: { Email: email },
+    //        success: function (response) {
+    //            if (response) {
+    //                location.href = "/Profile/Profile";
+    //            }
+
+    //        },
+    //        error: function () {
+    //            debugger;
+    //            console.log("Hata Oluştu");
+    //        }
+    //    })
+    //}
+</script>

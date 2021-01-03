@@ -1,0 +1,86 @@
+﻿@using Common.Dtos;
+@model Common.Dtos.PostDto
+@using Microsoft.AspNetCore.Http;
+
+
+    <div class="post">
+        <div class="post__header">
+            <div class="post__user">
+                <img src="~/img/@Model.ProfilPhoto"
+                     alt="my-image"
+                     class="radius" />
+                <div class="post__info">
+                    <h4 class="post__username">@Model.UserName </h4>
+                    <div>@(DateTime.Now.Minute-Model.CreatedDate.Minute+"m")<span>👥</span></div>
+                </div>
+            </div>
+            <div>...</div>
+        </div>
+        <div style="margin:10px;">@Model.Text</div>
+        @if (Model.Image != null)
+        {
+            <div style="margin:12px;" class="post__image rounded-pill" >
+                <img src="~/img/@Model.Image" alt="" style=" width:100%; height:auto; text-align:center">
+                @* @Context.Session.GetString("path")*@
+                @*<img src="./images/post-3.jpg" alt="people" />*@
+
+            </div>
+        }
+
+    <div style="margin:15px;">
+       
+            <button class="mdc-fab mdc-fab--mini" onclick="LikePost('@Model.PostId')" style="box-shadow: none; background-color: white;" aria-label="Favorite">
+                <div class="mdc-fab__ripple"></div>
+                <span class="far fa-thumbs-up" style="color: black;"><span class="ml-2">@Model.LikeCount</span></span>
+
+            </button>
+      
+
+    </div>
+        
+        @*<div class="p-act like"><i class="material-icons">thumb_up_alt</i><span>Beğen</span></div>*@
+    </div>
+
+    <script>
+
+        function LikePost(postId) {
+            $.ajax({
+                type: "GET",
+                url: "/Facebook/Like",
+                data: { PostId: postId },
+                success: function (response) {
+                    if (response) {
+                        location.href = "/Facebook/Home/";
+                    }
+
+                },
+                error: function () {
+                    debugger;
+                    console.log("Hata Oluştu");
+                }
+            })
+        }
+
+        //function DisLikePost(postId) {
+
+        //    $.ajax({
+        //        type: "GET",
+        //        url: "/Facebook/DisLike",
+        //        data: { PostId: postId },
+        //        success: function (response) {
+        //            if (response) {
+        //                location.href = "/Facebook/Home/";
+        //            }
+
+        //        },
+        //        error: function () {
+        //            debugger;
+        //            console.log("Hata Oluştu");
+        //        }
+        //    })
+        //}
+
+        
+    </script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

@@ -1,0 +1,59 @@
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\lnv\source\repos\Facebook\Domain\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\lnv\source\repos\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\HP\Desktop\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\HP\Desktop\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

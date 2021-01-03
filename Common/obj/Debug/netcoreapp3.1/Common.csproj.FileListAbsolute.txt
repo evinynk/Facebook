@@ -1,0 +1,36 @@
+C:\Users\lnv\source\repos\Facebook\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\lnv\source\repos\Facebook\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\lnv\source\repos\Facebook\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\lnv\source\repos\Facebook\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\lnv\source\repos\Facebook\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\lnv\source\repos\Facebook\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\lnv\source\repos\Facebook\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\lnv\source\repos\Facebook\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\lnv\source\repos\Facebook\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\aleyn\OneDrive\Masaüstü\Facebook\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\HP\Desktop\FacebookPrj\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\HP\Desktop\FacebookPrj\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\HP\Desktop\FacebookPrj\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\HP\Desktop\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\HP\Desktop\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\HP\Desktop\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\evin\Desktop\githuba atılan projeler\FacebookPrj\Common\obj\Debug\netcoreapp3.1\Common.pdb
